@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I’m actively seeking a Ph.D. position for Fall 2024 😄
+### I'm interested in AIGC and Medical image computing 🤔
 
 <!--
 **wyhlovecpp/wyhlovecpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
