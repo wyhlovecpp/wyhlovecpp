@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I’m actively seeking a Ph.D. position for Fall 2024 😄
+### I’m first-year CS PhD in UCSC 😄
 ### I'm interested in AIGC and Medical Image Computing 🤔
 
 <!--
